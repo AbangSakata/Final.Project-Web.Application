@@ -1,5 +1,6 @@
 # Final.Project-Web.Application
-Tugas Project Akhir - Kelompok 7 (Pemrograman Web Kelas B)
+Tugas Project Akhir - Kelompok 7 (Pemrograman Web Kelas B),
+
 Project Web : BasinggahSmokol
 1. Brando Mathias (220211060351)
 2. Nathanael Tuwaidan (220211060369)
